@@ -4,5 +4,11 @@ node_modules
 #compiled js
 dist
 
+#IDEs
+.idea
+
 #config files
 src/config
+
+#file buffer
+src/file_buffer
